@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=Bz-4wTGD2_Q
+
 ```
 sudo su
 apt-get update
